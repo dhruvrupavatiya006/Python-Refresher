@@ -47,3 +47,7 @@ Build a strong Python foundation for:
 - Data Science
 - Machine Learning
 - Automation
+
+## Connect
+
+- LinkedIn: www.linkedin.com/in/dhruv-rupavatiya
