@@ -47,7 +47,3 @@ Build a strong Python foundation for:
 - Data Science
 - Machine Learning
 - Automation
-
----
-
-*Learning. Building. Improving.*
